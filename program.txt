@@ -4,3 +4,8 @@ int main()
 	
 	return 0;
 }
+
+metho()
+{
+	printf("my name is cloud")
+}
